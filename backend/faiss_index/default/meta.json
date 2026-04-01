@@ -1,0 +1,31 @@
+{
+  "name": "默认知识库",
+  "description": "系统自动创建的默认知识库",
+  "created_at": "2026-04-02T00:30:08.938673",
+  "updated_at": "2026-04-02T00:30:45.109163",
+  "doc_count": 18,
+  "chunk_count": 19,
+  "sources": [
+    "D:\\RAG-QA\\backend\\uploads\\c9868f0d.docx",
+    "D:\\RAG-QA\\backend\\uploads\\8be64f70.docx",
+    "D:\\RAG-QA\\backend\\uploads\\e75e0076.docx",
+    "D:\\RAG-QA\\backend\\uploads\\0f1bc4f2.docx",
+    "D:\\RAG-QA\\backend\\uploads\\39906e7d.docx",
+    "D:\\RAG-QA\\backend\\uploads\\5eea3cb3.docx",
+    "D:\\RAG-QA\\backend\\uploads\\5f8ce565.docx",
+    "D:\\RAG-QA\\backend\\uploads\\c8e07d26.docx",
+    "D:\\RAG-QA\\backend\\uploads\\c55f60df.docx",
+    "D:\\RAG-QA\\backend\\uploads\\297768e3.docx",
+    "D:\\RAG-QA\\backend\\uploads\\77a0d6fa.docx",
+    "D:\\RAG-QA\\backend\\uploads\\a133b67c.docx",
+    "D:\\RAG-QA\\backend\\uploads\\5e1f02a9.docx",
+    "D:\\RAG-QA\\backend\\uploads\\4d164ee3.docx",
+    "D:\\RAG-QA\\backend\\uploads\\ed7d63d5.docx",
+    "D:\\RAG-QA\\backend\\uploads\\ac926c6b.docx",
+    "D:\\RAG-QA\\backend\\uploads\\ce5aab0d.docx",
+    "D:\\RAG-QA\\backend\\uploads\\76a93b71.docx"
+  ],
+  "file_types": {
+    "docx": 18
+  }
+}
